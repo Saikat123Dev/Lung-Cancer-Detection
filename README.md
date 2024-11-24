@@ -44,6 +44,6 @@ The model achieved an accuracy of 95.2% on the testing set. The training and val
 
 Two checkpoints were saved during the training process. These checkpoints can be used to resume training or to evaluate the model on new data.
 
-## Credit
+## collab link
 
-This notebook was created by the Lovelace team,, for the AI_NIGHT_CHALLENGE competition.
+https://colab.research.google.com/drive/1cSmXIHh5r-2XHpm35CShellk66tS5esz
